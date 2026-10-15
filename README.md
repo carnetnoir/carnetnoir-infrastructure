@@ -13,6 +13,13 @@ Le cœur du projet repose sur un Raspberry Pi 5 exécutant DietPi, associé à u
 
 🌐 **Site officiel :** https://carnetnoir.fr
 
+## Documentation technique
+
+- [Architecture de l'infrastructure](docs/architecture.md)
+- [Serveur XMPP et Prosody](docs/xmpp.md)
+- [Sécurité de l'infrastructure](docs/security.md)
+- [Sauvegardes et supervision](docs/backup.md)
+
 ## Infrastructure
 
 | Composant | Technologie |
