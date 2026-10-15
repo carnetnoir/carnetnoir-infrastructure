@@ -1,6 +1,3 @@
-# carnetnoir-infrastructure
-Infrastructure auto-hébergée sur Raspberry Pi 5 : XMPP, Prosody, WireGuard et services associés.
-
 # Carnet Noir — Infrastructure auto-hébergée
 
 **Serveur XMPP fédéré sur Raspberry Pi 5, propulsé par DietPi et Prosody.**
